@@ -1,6 +1,6 @@
 # Sentiment-Analysis-LLM
 
-Hugging Face Sentiment Analysis Model with large dataset 
+Hugging Face Sentiment Analysis Model with LLM models
 
 https://colab.research.google.com/drive/1KTBT3IbK5lcuQF-E3rg5lBWbiZg18swI#scrollTo=V_Sl3yIDrS8J
 
